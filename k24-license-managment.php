@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Ksiegowosc24 License Management
  * Description: A WordPress plugin for managing licenses for your products or services.
- * Version: 1.4
+ * Version: 1.5.0
  * Author: Ksiegowosc24
  * Author URI: https://ksiegowosc24.pl/
  * Text Domain:k24

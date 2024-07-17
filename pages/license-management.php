@@ -1,8 +1,9 @@
-<?php 
+<?php
 
-function license_management(){
+function license_management()
+{
 
-	?>
+?>
 <style type="text/css">
 div#license_management_wrapper {
     width: 95%;
@@ -254,6 +255,7 @@ div#edit-license-modal {
                     license_status: $('#license-status').val(),
                     order_status: $('#order-status').val(),
                     customer_name: $('#customer-name').val(),
+                    customer_email: $('#customer-email').val(),
                     old_activation_date: $('#old-activation-date').val(),
                     security: '<?php echo wp_create_nonce('security'); ?>'
                 },

@@ -67,12 +67,12 @@ function send_license_email(){
 
 	if( $mail ){
 		wp_send_json_success(array(
-			'message' => __( 'Email sent successfully.','minti-framework' )
+			'message' => __( 'Email sent successfully.','k24' )
 		));
 	}
 
 	wp_send_json_error(array(
-		'message' => __( 'Something went wrong please try later.','minti-framework' )
+		'message' => __( 'Something went wrong please try later.','k24' )
 	));
 }
 
