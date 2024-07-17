@@ -1,0 +1,23 @@
+{
+	"cSpell.words": ["Ksiegowosc", "regenrate"],
+	"workbench.colorCustomizations": {
+		"activityBar.activeBackground": "#6bd789",
+		"activityBar.background": "#6bd789",
+		"activityBar.foreground": "#15202b",
+		"activityBar.inactiveForeground": "#15202b99",
+		"activityBarBadge.background": "#8768d6",
+		"activityBarBadge.foreground": "#e7e7e7",
+		"commandCenter.border": "#15202b99",
+		"sash.hoverBorder": "#6bd789",
+		"statusBar.background": "#43cc69",
+		"statusBar.foreground": "#15202b",
+		"statusBarItem.hoverBackground": "#2fad52",
+		"statusBarItem.remoteBackground": "#43cc69",
+		"statusBarItem.remoteForeground": "#15202b",
+		"titleBar.activeBackground": "#43cc69",
+		"titleBar.activeForeground": "#15202b",
+		"titleBar.inactiveBackground": "#43cc6999",
+		"titleBar.inactiveForeground": "#15202b99"
+	},
+	"peacock.color": "#43cc69"
+}
